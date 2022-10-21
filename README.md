@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript ,NodeJs ,MongoDb**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **tpaul.be21@gmail.com**
 
